@@ -1,0 +1,16 @@
+.help_everyone{
+    font-family: cairo;
+    color: #2995E2;
+    font-weight: bold;
+}
+.navigation_bar{
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+}
+.nav_links {
+    list-style: none;
+}
+.nav_links li a {
+    text-decoration: none;
+}
