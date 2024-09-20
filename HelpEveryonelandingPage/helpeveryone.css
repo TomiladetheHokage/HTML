@@ -1,0 +1,248 @@
+.logo_container{
+    font-family: cairo;
+    color: #2995E2;
+    font-weight: bold;
+    margin-left: 5rem;
+}
+.navigation_bar{
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+}
+.nav_links {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    margin-left: 10rem;
+}
+.nav_links li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: cairo;
+}
+.sign_up{
+    border: 1px solid black;
+    width: 130px;
+    height: 44px;
+    background-color: white;
+    margin-left: 15rem;
+}
+.navigation_bar{
+    margin-top: 2rem;
+}
+.Main_text{
+    font-family: cairo, serif;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 93px;
+}
+.Hero{
+    margin-top: 13rem;
+    margin-left: 5rem;
+    display: flex;
+    flex-direction: row;
+}
+.image_one{
+    margin-left: 15rem;
+    padding-left: 5rem;
+}
+.get_started_button{
+    width: 143px;
+    height: 44px;
+    background-color: #2995E2;
+    border: 1px solid #2995E2;
+    position: absolute;
+    z-index: 1;
+    /*margin-bottom: 5rem;*/
+}
+.button_group{
+    display: flex;
+    flex-direction: column;
+}
+.get_started_button2{
+    width: 143px;
+    height: 44px;
+    border: 1px solid black;
+    background-color: white;
+    margin-left: 8px;
+    margin-top: 11px;
+}
+.get_started_button:hover {
+    background-color: #0056b3;
+}
+.hero_paragraph{
+    font-weight: 600;
+    font-family: cairo, serif;
+    padding-bottom: 3rem;
+}
+.watch_story{
+    position: absolute;
+    margin-left: 13rem;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.watch_story a{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+}
+.watch_story a:hover{
+    color: #2995E2;
+}
+.ABout_us{
+    margin-top: 5rem;
+    text-align: center;
+}
+.ABout_us p{
+    font-family: cairo, serif;
+    font-size: 1.5em;
+    line-height: 35px;
+    max-width: 800px;
+}
+.about-us-description{
+    text-align: center;
+    width: 800px;
+}
+.sun_clouds{
+    position: absolute;
+    z-index: 1;
+    margin-left: -18rem;
+}
+.Tents{
+    margin-left: 2rem;
+    position: absolute;
+    margin-top: -2rem;
+}
+
+.section_title{
+    margin-top: 8rem;
+    margin-left: 5rem;
+    font-family: cairo;
+    font-size: 40px;
+    height: 75px;
+}
+.our_service{
+    margin-left: 10rem
+}
+.section-description{
+    margin-left: 5rem;
+    margin-top: -4rem;
+    font-size: 19px;
+}
+.service_text{
+    margin-top: 7rem;
+    margin-left: 5rem;
+    line-height: 25px;
+}
+.service_one{
+    display: flex;
+    margin-left: 10rem;
+}
+.service_image{
+    margin-left: 12rem;
+}
+.About_This{
+        width: 143px;
+        height: 44px;
+        background-color: #2995E2;
+        border: 1px solid #2995E2;
+        position: absolute;
+        z-index: 1;
+    }
+.About_this_2{
+    width: 143px;
+    height: 44px;
+    border: 1px solid black;
+    background-color: white;
+    margin-left: 8px;
+    margin-top: 11px;
+}
+.button_about_this_button{
+    margin-top: 2rem;
+}
+.service_two{
+    margin-top: 7rem;
+    margin-left: 10rem;
+    display: flex;
+}
+.service_two_text{
+    margin-left: 10rem;
+    margin-top: 7rem;
+}
+.dummy_text_no\.2{
+    line-height: 25px;
+}
+.button{
+    width: 143px;
+    height: 44px;
+    background-color: #2995E2;
+    border: 1px solid #2995E2;
+    position: absolute;
+    z-index: 1;
+}
+.button2{
+    width: 143px;
+    height: 44px;
+    border: 1px solid black;
+    background-color: white;
+    margin-left: 8px;
+    margin-top: 11px;
+}
+.help_elderly_button{
+    margin-top: 2rem;
+}
+.button_group_three{
+    margin-top: 7rem;
+    margin-left: 10rem;
+    /*display: flex;*/
+}
+.service_three_image{
+    margin-left: 55rem;
+    margin-top: -20rem;
+    position: absolute;
+}
+.service_three{
+    margin-top: 10rem;
+    margin-left: 10rem;
+}
+.dummy_text_3{
+    margin-top: 5rem;
+}
+.dummy_text_no\.3{
+    line-height: 35px;
+    font-size: 25px;
+}
+.dummy_text_no\.2{
+    line-height: 35px;
+    font-size: 25px;
+}
+.dummy_text_1{
+    line-height: 35px;
+    font-size: 25px;
+}
+.Button3{
+    width: 143px;
+    height: 44px;
+    background-color: #2995E2;
+    border: 1px solid #2995E2;
+    position: absolute;
+    z-index: 1;
+}
+.Button33{
+    width: 143px;
+    height: 44px;
+    border: 1px solid black;
+    background-color: white;
+    margin-left: 8px;
+    margin-top: 11px;
+}
+.about-us{
+    text-align: center;
+}
+.prac{
+    text-align: center;
+}
